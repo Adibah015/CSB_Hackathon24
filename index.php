@@ -16,7 +16,7 @@
             <ul class="menu">
                 <li><a href="#" class="active">Home</a></li>
                 <li><a href="resources.php">Resources</a></li>
-                <li><a href="#">About</a></li>
+                <li><a href="about.php">About</a></li>
                 <li><a href="signin.php">Sign in</a></li>
             </ul>
         </nav>
