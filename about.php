@@ -106,25 +106,25 @@
 
             <div class="feature1-box">
                 <div class="f1-img">
-                    <img src="image/add2.jpg"/>
+                  <a href="problemset.php"><img src="image/add2.jpg"/></a>
                 </div>
             </div>
 
             <div class="feature1-box">
                 <div class="f1-img">
-                    <img src="image/add3.jpg"/>
+                 <a href="discussion.php"><img src="image/add3.jpg"/></a>
                 </div>
             </div>
 
             <div class="feature1-box">
                 <div class="f1-img">
-                    <img src="image/add4.jpg"/>
+                <a href="hackathons.php"><img src="image/add4.jpg"/></a>
                 </div>
             </div>
 
             <div class="feature1-box">
                 <div class="f1-img">
-                    <img src="image/add5.jpg"/>
+                <a href="courses.php"><img src="image/add5.jpg"/></a>
                 </div>
             </div>
 
